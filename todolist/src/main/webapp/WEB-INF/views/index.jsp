@@ -20,6 +20,7 @@
 		<input type="password" id="userPw" name="userPw">
 		
 		<input type="submit" value="SIGN IN" />
+		안녕하세요~
 	</form>
 </body>
 </html>
